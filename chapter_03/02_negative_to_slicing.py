@@ -9,4 +9,4 @@ print(name[1:5])  # postive indexing starts from 0 from the start of the string
 name = "pratap"
 print(name[:5]) #is same as  print name  [0:5]  
 print(name[1:]) # is same as  print name  [1:6]
-print(name[1:6])
+print(name[1:6]) # is same as print name 

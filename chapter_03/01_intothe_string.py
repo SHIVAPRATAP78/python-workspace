@@ -36,4 +36,5 @@ name = "pratap"
 charecter =name[3] # it will give the third charecter of the included string    
 print(charecter)
 
+#
 
