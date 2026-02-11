@@ -53,7 +53,7 @@ print("Value popped:", list4.pop(1))
 print(list4)
 
 #remove method 
-list5 = [9,7,6,4,12,1,34,56,74,90,101,]
+list5 = [9,6,4,12,1,34,56,74,90,101,]
 list5.remove(34)
 print(list5)
 
