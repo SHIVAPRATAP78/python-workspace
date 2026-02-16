@@ -7,3 +7,12 @@ print(s)
 
 s =set()
 s.add ()
+
+
+s = set()
+s.add(20)
+s.add("28")
+print(s)
+
+s =set()
+s.add()
